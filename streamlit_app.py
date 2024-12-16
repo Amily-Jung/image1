@@ -77,53 +77,53 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://modelviewer.lol/ko-KR/champions/lux",
+            "https://i.namu.wiki/i/___Ij2_9RHiLfeAPwXxbdrZZZHjecMbmT9kiDGBQTRTRelVnozS2ku3eYaTJiZr2TvNvMLy-C2DzuLc4_8CLKKee3tbqeXRhOQybVGuN-JDwZaQ2HNGTSJ87nXVxA6IIEt-d1PrFBgJYL-zLyoX96w.webp",
+            "https://i.namu.wiki/i/Kfly0DR0foVApmbW4hJOO4KD9vkcnb434ScD_Mg0vSfyrtWw-7p1DixEAerGtsbEqQMz9nkwDl7g4S4P4Y3cmprODAsCNJnRAmJ5RxDlmSVvY6AyfSQaSi24gR-po3xVnYb44W2NgD-0BUiWqMp0MQ.webp"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/aR-KAldshAE?si=W7yiO6_sHRg78CLv",
+            "https://youtu.be/feqzNGLA9X0?si=sSMFHAo8Hdz_k4DD",
+            "https://youtu.be/gRRk6WnzNII?si=JRyvwno8DRlNqeav"
         ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "어디 한번 길을 밝혀보죠!",
+            "그럼요, 데마시아가 모범을 보여야죠.",
+            "환한 마음가짐으로 전투에 임해요."
         ]
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://i.namu.wiki/i/AblkrGcA0boEEGveee6gIcTrjkmQgfXdeHkfBxQTi80NgMaYPMsoM7tayRRjPqDyGbKeuCNnjrQzXHX6ZA1yvoENdKS_dyeZKanmw0jScT5VZDdYOAmEUIhquOMoNDlkI1cc5vdd6JQFTCoGlgh_qQ.webp",
+            "https://i.namu.wiki/i/Yxp19xYQX-lOnQVZrEMwJ4A01CfSYnqhFujygO-vH1zt2LUHExHqNMyAHnASP9Cs6aw-0y49LddocZf_Ou957jvKcEvDVep7Iyj-6PHA658dRK-ErUkhR-lbHZEHDwRbeoZgJFdC1GsXPmaGN9i8bg.webp",
+            "https://i.namu.wiki/i/DI48rZJawhWCrW-JjBBCdGOFZ-loNsBGgug2ZLXK0kVJFEdTP96tQOrUUsVA_d7WCPdEGfgTbLkwPdJ7OL0BPzd5Ma1YQAl0enOy7hrSXUxpSafagXGqL2BexXNzPvFJmgK5GzYOqqv4_WZosDOTSw.webp"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://youtu.be/MDErQ1KTzaI?si=dfcK3qor9zrGuM-h",
+            "https://youtu.be/bVlr1cMMx-k?si=oYdWDdZc1Q6D1af9",
+            "https://youtu.be/TLrt5Ee86YQ?si=ikNaqzVG0rXcG5Tu"
         ],
         'texts': [
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "임무를 수락하지! 잠깐, 어디 가는 거라고?",
+            "너만 손해지 뭐! 이해는 해.",
+            "세계 종말의 날이야말로, 내 실력을 보여줄 때지!"
         ]
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://i.namu.wiki/i/lEGMh0fLnBcwa99olTMJivGgXtKCkYz22ttjA6kIaKVkPXLBsd0rFTVObDzYINB2TKxoz98LVPW6WpEsHKws_o29rFtTmcUNXC61pgp90705JnZYFoouwb90aNGYR-F6F8SXHW5YwdI-ntw8VE90TA.webp",
+            "https://i.namu.wiki/i/rN07JEA21meOrHcMbuh0qxYd6L_IbzUsAN74bnD4DVlln1Wk7d1w1bQ_FeztXJxmc3Gd6gTgB2RiLnocgAHFD8yVuCSO_sK4Iur7gtPvQfFh2vfS0CUXZfZxlAeH2q7gSnAeBe-vsll3RYmMOHE2Kg.webp",
+            "https://i.namu.wiki/i/vabAwg5i_0CKKSNmOlELSdBObY01qldCqDI-VNBDMZ_uDMSOWfxWRkHCmsFVIgkx0JKkESN16nHKeFcT5Wx-toMXCI5T1N76oRoF2EMSDpGFzLn-FTooq5BSOu_uMPiERLRNVLw_2MK6Xj1cSy_l2A.webp"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/DJ_D4DepdW8?si=uendhlMTtysfy-N0",
+            "https://youtu.be/DxGRdWpoVRI?si=wu6w3DC99ZiNWhks",
+            "https://youtu.be/eFISOOIfo7I?si=FErDYuvncbkfzvWT"
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "밴들 정찰대원 티모, 보고드립니다!",
+            "어, 정찰대의 삶이 모두에게 허락된 건 아니겠죠, 뭐.",
+            "티모 대위, 명을 받들겠습니다!"
         ]
     }
 }
