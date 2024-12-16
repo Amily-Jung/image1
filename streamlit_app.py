@@ -77,7 +77,7 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://modelviewer.lol/ko-KR/champions/lux",
+            "https://i.namu.wiki/i/E9qnk_OzM55zehri-_U19CMRZgnbBylBtO-NcZU6e1BmYFyRlZjurUsnFXF3smHtKKtUGIZp8VWjJZ1BooRawfc36vsVQhVlzI-mUqOhgoMInfxZPH4hNJ27ngcp80aRJENVwjKWqyGQCtJA09X8Qg.webp",
             "https://i.namu.wiki/i/___Ij2_9RHiLfeAPwXxbdrZZZHjecMbmT9kiDGBQTRTRelVnozS2ku3eYaTJiZr2TvNvMLy-C2DzuLc4_8CLKKee3tbqeXRhOQybVGuN-JDwZaQ2HNGTSJ87nXVxA6IIEt-d1PrFBgJYL-zLyoX96w.webp",
             "https://i.namu.wiki/i/Kfly0DR0foVApmbW4hJOO4KD9vkcnb434ScD_Mg0vSfyrtWw-7p1DixEAerGtsbEqQMz9nkwDl7g4S4P4Y3cmprODAsCNJnRAmJ5RxDlmSVvY6AyfSQaSi24gR-po3xVnYb44W2NgD-0BUiWqMp0MQ.webp"
         ],
