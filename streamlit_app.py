@@ -5,13 +5,13 @@ from PIL import Image
 import gdown
 
 # Google Drive 파일 ID
-file_id = '1NKIhMhUeRC0vPptHwT4it-LMYhamVDyi'
+file_id = '1AJfo4iQ7MBzD_Eza_LJEduu1_QSM-cUH'
 
 # Google Drive에서 파일 다운로드 함수
 @st.cache(allow_output_mutation=True)
 def load_model_from_drive(file_id):
     url = f'https://drive.google.com/uc?id={file_id}'
-    output = 'model.pkl'
+    output = '롤 챔피언 찾기.pkl'
     gdown.download(url, output, quiet=False)
 
     # Fastai 모델 로드
